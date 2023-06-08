@@ -1,0 +1,15 @@
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.csproj.AssemblyReference.cache
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.AssemblyInfoInputs.cache
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.AssemblyInfo.cs
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.csproj.CoreCompileInputs.cache
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\bin\Debug\net6.0\Thread Pool.exe
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\bin\Debug\net6.0\Thread Pool.deps.json
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\bin\Debug\net6.0\Thread Pool.runtimeconfig.json
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\bin\Debug\net6.0\Thread Pool.dll
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\bin\Debug\net6.0\Thread Pool.pdb
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.dll
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\refint\Thread Pool.dll
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.pdb
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\Thread Pool.genruntimeconfig.cache
+C:\Users\sebva\Desktop\Concurrency synopsis\Thread Pool\Thread Pool\obj\Debug\net6.0\ref\Thread Pool.dll
